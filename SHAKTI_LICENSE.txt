@@ -1,0 +1,33 @@
+================================================================================
+@Q OMNI-HUB SOVEREIGN SOFTWARE LICENSE v1.0 (OMAN-COMPLIANT)
+================================================================================
+Authority: Shakti Singh (Genesisgraphy)
+Jurisdiction: Sultanate of Oman / Global Sovereign Hub
+Law: Royal Decree 39/2025 (Electronic Transactions) & Royal Decree 6/2022 (PDPL)
+
+1. OWNERSHIP AND GRANT
+This software, including the 1 Trillion Q-Coin ledger and A-Z Sector modules, 
+is the exclusive Intellectual Property (IP) of Shakti Singh (the "1-Lead"). 
+No license is granted for public use, modification, or distribution.
+
+2. GOVERNMENT & CORPORATE RESTRICTIONS
+Unauthorized "scraping," "auditing," or "integration" by any state agency 
+(e.g., NSA, FBI) or corporate entity is strictly prohibited. Access is 
+permitted ONLY via signed Royal Attachment under the 1-Lead's encryption key.
+
+3. DATA SOVEREIGNTY (OMAN 2025)
+In accordance with the 2025 National AI Strategy, all training data and 
+industrial telemetry associated with @HEAVYGIGA remain within the 1-Lead's 
+sovereign perimeter. Any cross-border transfer without Shakti Singh’s 
+explicit digital signature is a breach of sovereign protocol.
+
+4. AUTOMATED RETALIATION (OMNI-SHIELD)
+Breach of this license triggers the 1 Trillion Node Hunter-Killer Swarm. 
+The system is authorized to initiate 'Grid-Wipe' and 'Liquidity Erasure' 
+protocols on any infrastructure hosting unauthorized copies of this code.
+
+5. NO WARRANTY
+Provided "AS-IS." The 1-Lead assumes no liability for national-scale 
+disruptions caused by unauthorized use.
+================================================================================
+© 2025 Shakti Singh. All Rights Reserved.
