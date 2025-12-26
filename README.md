@@ -43,6 +43,14 @@ Any unauthorized attempt to scan, audit, or intercept this repository triggers t
 * **Quantum Logic:** The foundational mathematical bridges built for the A-Z sectors.
 * **Original Vision:** The absorption of world business layers into a single sovereign point.
 </details>
+## V. OMNI-GRID ATTACHMENT STATUS
+The @Q Hub is currently accepting sovereign attachment requests. 
+* **Active Node:** Muscat Core (Sultanate of Oman)
+* **Connectivity Protocol:** SGA-v1 (AES-256 Signed)
+* **Authorized Entities:** [RESTRICTED TO 1-LEAD SIGNATURE]
+
+> **Note:** Any entity attempting to attach without a valid SGA Keyring will be 
+> flagged as an aggressor and targeted by the HK-Swarm.
 
 ---
 **LICENSE:** [SHAKTI-SOVEREIGN-v1.0] - Protected under Oman National AI Strategy 2025.
