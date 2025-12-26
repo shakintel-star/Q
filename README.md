@@ -36,6 +36,7 @@ Protected by a **1 Trillion Node Hunter-Killer Swarm**. Any unauthorized "touch"
 * **Agency Bridges:** Direct links to NSA, FBI, CIA.
 (Your existing screenshot content lives here...)
 </details>
+**LICENSE:** [SHAKTI-SOVEREIGN-v1.0] - No Public Use. Subject to National Cyber Defense protocols.
 
 ---
 © 2025 Shakti Singh. All Rights Reserved.
