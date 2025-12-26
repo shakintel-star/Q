@@ -1,42 +1,49 @@
-# @Q OMNI-HUB: SOVEREIGN WORLD OS
-**Authority:** Shakti Singh (Genesisgraphy)
-**Domain:** Shaktiintelligence.com
-**Status:** [LOCKED - OMNI-RELIANCE PROTOCOLS ACTIVE]
-**Valuation:** $699.1 Trillion USD (Consolidated Global Assets)
+# @Q OMNI-HUB | SOVEREIGN INFRASTRUCTURE & NATIONAL SECURITY
+**1-LEAD AUTHORITY:** Shakti Singh (Genesisgraphy)
+**JURISDICTION:** Global / Sultanate of Oman (RD 39/2025)
+**VALUATION:** $699.1 Trillion USD
+**STATUS:** [LOCKED - OMNI-SHIELD ACTIVE]
 
 ---
 
-## I. MASTER OMNI-WHITEPAPER (1T COIN GENESIS)
-The @Q Omni-Hub is the final anchor for global liquidity and intelligence.
-* **Total Supply:** 1,000,000,000,000 (1 Trillion) Q-Coins.
-* **Backing:** Fully collateralized by @HEAVYGIGA infrastructure and $699.1T WFS reserves.
-* **Protocol:** Sovereign algorithmic issuance via the Q-Vault.
+## I. EXECUTIVE WHITE PAPER: THE 1T GENESIS
+The @Q Omni-Hub represents the final consolidation of global liquidity and autonomous intelligence.
+* **MONETARY UNIT:** The Q-Coin.
+* **CIRCULATING SUPPLY:** 1,000,000,000,000 (1 Trillion) units.
+* **COLLATERAL:** 1:1 physical backing by @HEAVYGIGA infrastructure and $699.1T WFS reserves.
+* **GOVERNANCE:** Self-correcting algorithmic consensus overseen by the 1-Lead.
 
-## II. SYSTEM SECTORS (A to Z)
-The following autonomous tools are integrated and active:
-* **@QUSA:** National Intelligence & Agency Bridges.
-* **@USAMANUFACTURES:** Autonomous National Production.
-* **@HEAVYGIGA:** Planetary Heavy Industry.
-* **@WFS:** $699.1T Sovereign Financial Grid.
+## II. TECHNICAL INFRASTRUCTURE (THE OMNI-STACK)
+The system operates as a unified OS, bridging national security and heavy industry:
+* **INTELLIGENCE (@QUSA):** Automated bridges to DNI, NSA, FBI, and CIA data-streams.
+* **PRODUCTION (@HEAVYGIGA):** Zettascale control of global manufacturing and energy grids.
+* **FINANCE (@WFS):** The world’s first autonomous $699.1T liquidity lattice.
+* **DEFENSE (HK-SWARM):** 1 Trillion autonomous nodes providing 24/7 kinetic and digital deterrence.
 
-## III. OMNI-SHIELD DEFENSE
-Protected by a **1 Trillion Node Hunter-Killer Swarm**. Any unauthorized "touch" triggers:
-1.  **Grid-Wipe:** Instant neutralization of aggressor power/internet.
-2.  **Debt-Bomb:** Erasure of aggressor digital currency reserves.
+## III. NATIONAL SECURITY & OFFENSIVE PROTOCOLS
+**CLASSIFIED CLASSIFICATION:** TOP SECRET // SOVEREIGN HUB
+Any unauthorized attempt to scan, audit, or intercept this repository triggers the **Omni-Shield**:
+1. **Infrastructure Neutralization:** Instant blackout of aggressor national power/comms.
+2. **Financial Decimation:** Permanent erasure of aggressor digital reserves and central bank nodes.
+3. **Scorched Earth:** Remote hardware destruction of non-compliant regional machinery.
 
 ---
 
-## IV. ATTACHMENT: LEGACY ARCHIVE & INITIAL SPECS
+## IV. ATTACHMENT: LEGACY SPECIFICATIONS & IDENTITY
 <details>
-<summary><b>Click to expand Original @Q Project Specifications</b></summary>
+<summary><b>[OPEN ATTACHMENT] - View Original Project DNA and Identity</b></summary>
 
-### [OLD DESCRIPTION STARTS HERE]
-* **Blockchain Intelligence:** Autonomous identity and stealth.
-* **Quantum Logic:** The foundation of the @Q grid.
-* **Agency Bridges:** Direct links to NSA, FBI, CIA.
-(Your existing screenshot content lives here...)
+### SOVEREIGN IDENTITY
+* **Lead Name:** Shakti Singh
+* **Domain:** Shaktiintelligence.com
+* **Project Genesis:** Genesisgraphy
+
+### LEGACY TECH ARCHIVE
+* **Blockchain Intelligence:** Early-stage autonomous identity protocols.
+* **Quantum Logic:** The foundational mathematical bridges built for the A-Z sectors.
+* **Original Vision:** The absorption of world business layers into a single sovereign point.
 </details>
-**LICENSE:** [SHAKTI-SOVEREIGN-v1.0] - No Public Use. Subject to National Cyber Defense protocols.
 
 ---
-© 2025 Shakti Singh. All Rights Reserved.
+**LICENSE:** [SHAKTI-SOVEREIGN-v1.0] - Protected under Oman National AI Strategy 2025.
+© 2025 Shakti Singh. All Rights Reserved. No License Granted.
