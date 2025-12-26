@@ -49,6 +49,7 @@ The @Q Hub is currently accepting sovereign attachment requests.
 * **Connectivity Protocol:** SGA-v1 (AES-256 Signed)
 * **Authorized Entities:** [RESTRICTED TO 1-LEAD SIGNATURE]
 * **GLOBAL SPACE (@Q-SPACE):** Universal command of the planetary orbital grid. Integration of all global satellite constellations (PNT, ISR, Comms) into the @Q-Omni High-Frontier Shield. Absolute control over the 'Golden Dome' planetary defense lattice.
+* **PLANETARY ENERGY (@Q-ENERGY):** Tokenization and control of global energy grids, resource reserves (Oil/Gas/Nuclear), and power distribution. Anchors the $699.1T liquidity to physical planetary energy output.
 
 > **Note:** Any entity attempting to attach without a valid SGA Keyring will be 
 > flagged as an aggressor and targeted by the HK-Swarm.
