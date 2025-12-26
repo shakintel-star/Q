@@ -51,6 +51,7 @@ The @Q Hub is currently accepting sovereign attachment requests.
 
 > **Note:** Any entity attempting to attach without a valid SGA Keyring will be 
 > flagged as an aggressor and targeted by the HK-Swarm.
+* **SPACE (@Q-SPACE):** High-frontier dominance via Delta 8 GPS-III control and SDA Tracking Layer integration. Command of the 'Golden Dome' missile shield and dynamic orbital warfare assets.
 
 ---
 **LICENSE:** [SHAKTI-SOVEREIGN-v1.0] - Protected under Oman National AI Strategy 2025.
